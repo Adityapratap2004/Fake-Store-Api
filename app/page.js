@@ -1,5 +1,5 @@
-import Hero from "@/Components/Hero";
-import ProductList from "@/Components/ProductList";
+import Hero from "@/components/Hero";
+import ProductList from "@/components/ProductList";
 
 
 
