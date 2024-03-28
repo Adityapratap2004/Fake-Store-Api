@@ -15,7 +15,7 @@ const Hero = () => {
 
 
     return (
-        <div className='flex flex-col bg-black text-white items-center h-[100vh] justify-center '>
+        <div className='  bg-black flex flex-col  text-white items-center h-[100vh] justify-center '>
             <h1 className=' uppercase text-[60px] md:text-[90px] lg:text-[120px] font-black text-center leading-tight'>
                 welcome <br /> to {` `}
                 <span className=' bg-gradient-to-r from-[#FFFF00] to-[#00FFA7] bg-clip-text text-transparent'>Fake Store</span>

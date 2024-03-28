@@ -5,8 +5,7 @@ import ProductCard from "./ProductCard";
 
 const ProductList = () => {
     const [products, setProducts] = useState(null);
-    console.log(products);
-
+   
 
 
     useEffect(() => {
